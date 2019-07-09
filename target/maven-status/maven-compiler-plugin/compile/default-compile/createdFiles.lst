@@ -1,0 +1,9 @@
+com\project\addressbook\Address.class
+com\project\addressbook\Target.class
+com\project\addressbook\StandardBook.class
+com\project\addressbook\BookExt.class
+com\project\addressbook\Group.class
+com\project\addressbook\Preconditions.class
+com\project\addressbook\Name.class
+com\project\addressbook\Alias.class
+com\project\addressbook\Book.class
